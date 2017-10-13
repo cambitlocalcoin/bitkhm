@@ -1,0 +1,2 @@
+# bitkhm
+mining altcoin 
